@@ -65,41 +65,7 @@ public static void showFootball(Football cntr){
                 nommax=i;
 
             }
-        return nommax;
-    }
-
-    //pobed bolshe srednego
-
-    //public static Football[]Bigger(Football cntr[]){
-    
-// double sred=avgPobed(cntr);
-
-     //   int kol=0;
-       // for(int i=0; i< cntr.length;i++){
-
-      //      if(cntr[i].pobed>sred)
-      //          ++kol;
-
-     //   }
-      //  if(kol!=0){
-       //     Football[]bigFootball=new Football[kol];
-       //     int n=-1;
-       //     for(int i=0;i<cntr.length;i++)
-        //        if(cntr[i].pobed>sred){
-
-        //            bigFootball[++n]=cntr[i];
-
-
-
-
-       //         }
-       //     return bigFootball;
-
-      //  }else return null;
-
-
-
-//    }
+        }
 
 //sortirovka
 
@@ -152,12 +118,7 @@ public static void showFootball(Football cntr){
         showFootball(football[nommax]);
 
 
-        // bolshe srednego
-
-   //     System.out.println("\n Komandy, s kolichestvom pobed bolshe srednego:");
-    //    Football[] larger=Bigger(football);
-    //    showArray(larger);
-
+        
 
         //sorirovka
 

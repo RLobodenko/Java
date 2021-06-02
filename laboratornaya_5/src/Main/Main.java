@@ -127,7 +127,7 @@ public static void showFootball(Football cntr){
         showArray(football);
 
 
-        //poisk strany
+        //poisk
 
         System.out.println("\n Poisk Vvedite nazvanie=>");
         sc.nextLine();
